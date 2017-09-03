@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>annotation[fruit]Bing_617.jpeg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>x</name>
+    </owner>
+    <size>
+        <width>949</width>
+        <height>534</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fruit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>435</xmin>
+            <ymin>70</ymin>
+            <xmax>860</xmax>
+            <ymax>488</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fruit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>43</xmin>
+            <ymin>30</ymin>
+            <xmax>465</xmax>
+            <ymax>377</ymax>
+        </bndbox>
+    </object>
+</annotation>

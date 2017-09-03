@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>annotation[purple_fruits]Bing_074.jpeg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>x</name>
+    </owner>
+    <size>
+        <width>3901</width>
+        <height>2070</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>purple_fruits</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>195</xmin>
+            <ymin>169</ymin>
+            <xmax>1732</xmax>
+            <ymax>1878</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>purple_fruits</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2114</xmin>
+            <ymin>185</ymin>
+            <xmax>3695</xmax>
+            <ymax>1904</ymax>
+        </bndbox>
+    </object>
+</annotation>

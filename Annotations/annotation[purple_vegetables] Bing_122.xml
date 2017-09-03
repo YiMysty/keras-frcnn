@@ -1,0 +1,56 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>annotation[purple_vegetables] Bing_122.jpeg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>x</name>
+    </owner>
+    <size>
+        <width>3872</width>
+        <height>2592</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>purple_vegetables</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>748</xmin>
+            <ymin>360</ymin>
+            <xmax>2213</xmax>
+            <ymax>1280</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>purple_vegetables</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>171</xmin>
+            <ymin>1145</ymin>
+            <xmax>1153</xmax>
+            <ymax>1802</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>purple_vegetables</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2409</xmin>
+            <ymin>807</ymin>
+            <xmax>3854</xmax>
+            <ymax>1750</ymax>
+        </bndbox>
+    </object>
+</annotation>

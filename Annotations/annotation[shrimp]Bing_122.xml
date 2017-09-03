@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>annotation[shrimp]Bing_122.jpeg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>x</name>
+    </owner>
+    <size>
+        <width>4272</width>
+        <height>2848</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shrimp</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>162</xmin>
+            <ymin>709</ymin>
+            <xmax>2780</xmax>
+            <ymax>2785</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>shrimp</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2760</xmin>
+            <ymin>1306</ymin>
+            <xmax>3854</xmax>
+            <ymax>2771</ymax>
+        </bndbox>
+    </object>
+</annotation>
